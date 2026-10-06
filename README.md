@@ -13,3 +13,5 @@ Welcome to my portfolio repository. Below are my academic milestones, test score
 * **School Debate Club** 2022-2025
 * **Bishkek Physics Cup** 2026 - *Jury & Academic Committee Member*
 * **History & Science Research**  2026
+* **School Science Club** 2026
+* **Physics Olympiad Teaching**
