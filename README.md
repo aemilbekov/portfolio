@@ -1,4 +1,4 @@
-# Portfolio & Achievements & Activities
+# Portfolio & Achievements
 
 Welcome to my portfolio repository. Below are my academic milestones, test scores, and projects.
 
